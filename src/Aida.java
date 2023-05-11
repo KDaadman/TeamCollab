@@ -6,5 +6,9 @@ public class Aida {
         char gender = 'F';
 
         System.out.println(name + " is "+age + " years old "+ "gender is " +gender);
+
+        //add some notes
+
+        //Scanner
     }
 }
